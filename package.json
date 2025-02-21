@@ -1,0 +1,25 @@
+{
+  "name": "hacktividad",
+  "version": "1.0.0",
+  "description": "Falsificar actividad de GitHub",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no hay pruebas especificadas\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "CLI",
+    "flujo de trabajo",
+    "automatización"
+  ],
+  "author": "sabiopobre",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabiopobre/hacktividad.git"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
