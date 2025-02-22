@@ -1,6 +1,6 @@
 # Hacktividad
 
-Falsifica fácilmente tu actividad en GitHub llenando de cuadritos verdes (sin ningún respaldo real).
+Falsifica fácilmente tu actividad en GitHub llenando de cuadritos verdes tu perfil (sin ningún respaldo real).
 
 ## Introducción
 
