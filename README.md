@@ -1,6 +1,6 @@
 # Hacktividad
 
-Desmitificando la actividad: demostrar que los commits no miden el talento ni garantizan aciertos de contratación.
+Falsifica fácilmente tu actividad en GitHub llenando de cuadritos verdes tu perfil (sin ningún respaldo real).
 
 ## Introducción
 
